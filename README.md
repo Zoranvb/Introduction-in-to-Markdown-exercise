@@ -36,7 +36,7 @@
 
 ## My favorite GIF:
 
-![Morning person.](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhjcXM5aG42MW90aGk5aWc0MXNwZ2F1YnFwejBxMG1mbHVzM3hjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9s8Jq3Sc1ZnZS/giphy-downsized-large.gif)
+![Morning person.](Morning dog.gif)
 
 <p> I'm really not a morning person! 😄</p>
 
