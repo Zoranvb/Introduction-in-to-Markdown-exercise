@@ -34,9 +34,3 @@
 2. Learning from eachother. <br>
 3. Use each others strenghts to complete tasks</p>
 
-## My favorite GIF:
-
-![Morning person.](Morning dog.gif)
-
-<p> I'm really not a morning person! 😄</p>
-
